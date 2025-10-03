@@ -22,3 +22,4 @@ Make sure you have [AppSync](https://cydia.akemi.ai/) installed so the app insta
 Further reading at https://www.linkedin.com/pulse/decrypting-apps-ios-john-coates/
 
 Contact: john@johncoates.dev
+1
